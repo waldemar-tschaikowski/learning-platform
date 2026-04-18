@@ -10,6 +10,7 @@ export default function NavBar() {
       <Link href="/grids">Grids</Link>
       <Link href="/groups">Groups</Link>
       <Link href="/groups/new">Add Group</Link>
+      <Link href="/reviews">Reviews</Link>
       <Link href="/">Home</Link>
     </nav>
   );
